@@ -1,0 +1,8 @@
+dashboard :
+admin bar
+escritoro del dashboard
+menu del dashboar 
+footer:muestra la versio de wordpress o si debes instalar version nueva
+barra superior base a plugins
+gagets: pintan datos opciones de pantalla: podemos deshabilitar
+tema diferentes elementos 
