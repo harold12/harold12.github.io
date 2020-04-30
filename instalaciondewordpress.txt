@@ -1,0 +1,9 @@
+instalacion de wordpress
+hosting cpanel
+administrador de archivos
+dominios 
+public html
+url temporal
+carpetas de instalacion
+publichtml/literatura
+cgibin sobreescribaarchivos existentes
